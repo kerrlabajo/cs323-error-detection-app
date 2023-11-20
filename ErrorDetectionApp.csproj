@@ -5,6 +5,11 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>virology_lab_test_coronavirus_covid_detection_laboratory_icon_134541.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="virology_lab_test_coronavirus_covid_detection_laboratory_icon_134541.ico" />
+  </ItemGroup>
 
 </Project>
